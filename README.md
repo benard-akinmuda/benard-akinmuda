@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olusegun Akinmuda
 
-<!--
-**benard-akinmuda/benard-akinmuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Researcher in Reservoir Geophysics focused on carbonate reservoir characterization, seismic attributes, fracture modeling, and machine learning for geoscience.
 
-Here are some ideas to get you started:
+## Research Interests
+- Carbonate Reservoir Characterization
+- Seismic Attribute Analysis
+- Discrete Fracture Network (DFN) Modeling
+- Petrophysical Modeling
+- Machine Learning in Geoscience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Software
+- Petrel
+- Hampson-Russell
+- Techlog
+- Geolog
+- Jason
+- Python
+
+## Current Research
+Reservoir Characterization and Modeling.
+
+## Contact
+(https://www.linkedin.com/in/olusegun-benard-akinmuda/)
